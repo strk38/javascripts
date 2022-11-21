@@ -1,0 +1,47 @@
+h1{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+h2{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+}
+button{
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+    border: none;
+    padding: 4px;
+
+    border-radius: 20px;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+    width: 60px;
+    
+}
+#add-btn{
+    background: darkred;
+}
+
+#sub-btn{
+    background: darkgoldenrod;
+}
+#mul-btn{
+    background: coral;
+}
+#div-btn{
+    background: burlywood;
+}
+#clr-btn{
+    background: darkgreen;
+}
+#btn{
+    background: skyblue;
+}
